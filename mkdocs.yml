@@ -1,0 +1,25 @@
+site_name: Dragonsoft Leitfaden
+site_url: https://dragonsoft.io
+site_description: Leitfaden für den Umgang mit dem Dragonsoft 
+theme:
+  name: material
+  favicon: bilder/favicon.png
+  logo: bilder/favicon.png
+  features:
+  - navigation.footer
+  - navigation.tabs
+  - navigation.top
+
+
+nav:
+  - Start: index.md
+  - Nutzung im Unterricht: Unterricht.md
+  - Auswertung: Auswertung.md
+  - FAQ: faq.md
+
+extra:
+  social:
+    - icon: simple/instagram
+      link: https://instagram.com/dragonsoftgymsl
+    - icon: fontawesome/solid/globe
+      link: https://gymsl.agitalpro.de/
