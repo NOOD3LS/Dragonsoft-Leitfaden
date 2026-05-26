@@ -1,5 +1,5 @@
 # __FAQ__
-Oft gefragte Fragen und Antworten.   
+Oft gestellte Fragen und die Antworten.   
 ## __Fragen und Antworten:__
 - Frage: "Muss ich selbst spielen können, um das Programm zu nutzen?"
     * Antwort: "Nein, überhaupt nicht. Das Spielen des Spieles können sie vollkommen den Schülern überlassen. Sie geben nur den Arbeitsauftrag."

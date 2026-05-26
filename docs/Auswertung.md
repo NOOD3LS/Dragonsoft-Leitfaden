@@ -1,11 +1,11 @@
 # __Auswertung__
 
-Die Vollkommene Auswertung kann über folgende Website eingesehen werden.    
-[Auswertung Seite](http://85.215.207.221:5000/admin) (diese Seite nicht den Schülern zeigen)  
-Auf der Seite gibt es zwei Felder.
+Die vollständige Auswertung kann über folgende Website eingesehen werden:    
+[Auswertung Seite](http://85.215.207.221:5000/admin) *(diese Seite nicht den Schülern zeigen)*  
+Auf der Seite gibt es zwei Bereiche.
 ## __Auswertung__
-Unter dieser Kategorie können sie die Fragen und Antworten der Schüler einsehen.    
-Oben links können sie nach Lehrer, inhalt oder Fragen suchen.
+Unter dieser Kategorie können Sie die Fragen und Antworten der Schüler einsehen.  
+Oben links können Sie nach Lehrkraft, Inhalt oder Fragen suchen.
 ## __Karten-Ansicht__
-Hier können sie wenn gewünscht ihre eigene Lehrer Karte verändern.   
-Oben Links ist die Möglichkeit nach ihrem Namen zu suchen, und wenn gewünscht die Daten zu ändern.
+Hier können Sie, falls gewünscht, Ihre eigene Lehrkraft-Karte verändern.  
+Oben links haben Sie die Möglichkeit, nach Ihrem Namen zu suchen und bei Bedarf die Daten zu ändern.
