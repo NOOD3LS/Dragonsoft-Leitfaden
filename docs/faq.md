@@ -9,3 +9,5 @@ Oft gestellte Fragen und die Antworten.
     * Antwort: "Auf keinen Fall. Die Software ist wie ein geduldiger, interaktiver Duden oder Taschenrechner. Die Beziehungsarbeit, die Erziehung, das Bewerten und das Strukturieren des Lernens bleiben zu 100% in Ihren Händen."
 - Frage: "Löst die KI wirklich nicht einfach die Hausaufgaben der Kinder?"
     * Antwort: "Nein. Wir haben jedem virtuellen Lehrer im Code einen strengen Befehl ('Prompt') mitgegeben. Herr Heim (Mathe) ist beispielsweise strikt angewiesen: 'Du darfst niemals die Lösung oder das Endergebnis nennen. Lehne freundlich ab und hilf dem Schüler, selbst darauf zu kommen.'"
+
+Bei weiteren Fragen wenden sie sich an fritz.schirbel@gymsl.de 
