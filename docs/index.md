@@ -18,6 +18,7 @@ Dabei haben die Lehrkräfte festgelegte Fächer und beantworten nur Fragen aus d
 Genauere Angaben zu den Antworten der KI können über eine spezielle Seite angepasst werden.
 
 ## __Was müssen sie tun um das Spiel im Unterricht zu verwenden?__
-Das Spiel sollte bereits auf den Schul-Laptops installiert sein.  
-Sie müssen die Laptops an die Schüler austeilen und das Spiel starten lassen.  
+Das Spiel sollte bereits auf dem Netman Profil der Schullaptops vorhanden sein.     
+Sie müssen die Laptops an die Schüler austeilen und das Spiel starten lassen.   
 Die Schüler brauchen einen Account, mit dem sie sich im Spiel anmelden. Dafür müssen sie ihre **@gymsl.de**-E-Mail-Adresse verwenden und ein Passwort festlegen.
+Die Fragen werden nicht mit dem Account des Schülers verknüpft. Es wird nur im groben nur die Frage und die Antwort gespeichert.
