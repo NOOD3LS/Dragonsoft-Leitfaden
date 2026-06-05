@@ -1,6 +1,6 @@
 site_name: Dragonsoft Leitfaden
 site_url: https://nood3ls.github.io/Dragonsoft-Leitfaden/
-site_description: Leitfaden für den Umgang mit dem Dragonsoft 
+site_description: Leitfaden für den Umgang mit dem Dragonsoft Lernspiel
 theme:
   name: material
   favicon: bilder/favicon.png

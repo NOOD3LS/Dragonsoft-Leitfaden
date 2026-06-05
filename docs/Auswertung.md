@@ -1,7 +1,8 @@
 # __Auswertung__
 
 Die vollständige Auswertung kann über folgende Website eingesehen werden:    
-[Auswertung Seite](http://85.215.207.221:5000/admin) *(diese Seite nicht den Schülern zeigen)*  
+[Auswertung Seite](http://85.215.207.221:5000/admin) 
+Um vollständig auf die Website zuzugreifen müssen sie einmal einen Account erstellen und uns dann eine kurze E-Mail schreiben damit wir ihren zugriff freischalten können.
 Auf der Seite gibt es zwei Bereiche.
 ## __Auswertung__
 Unter dieser Kategorie können Sie die Fragen und Antworten der Schüler einsehen.  
