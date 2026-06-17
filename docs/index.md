@@ -22,3 +22,10 @@ Das Spiel sollte bereits auf dem Netman Profil der Schullaptops vorhanden sein.
 Sie müssen die Laptops an die Schüler austeilen und das Spiel starten lassen.   
 Die Schüler brauchen einen Account, mit dem sie sich im Spiel anmelden. Dafür müssen sie ihre **@gymsl.de**-E-Mail-Adresse verwenden und ein Passwort festlegen.
 Die Fragen werden nicht mit dem Account des Schülers verknüpft. Es wird nur im groben nur die Frage und die Antwort gespeichert.
+
+## __Registrierung__
+Um sich zu registrieren muss man eine gültige gymsl E-Mail addrese und den anweisungen auf dem Bildschirm folgen. 
+
+??? Info "Kommt keine Email an?"
+    Die Emails brauchen manchmal 2-3 Minuten bis die E-Mails in dem Postfach ankommen. Wenn nach 2-3 Minuten keine E-Mail im Postfach erscheint, einmal den Spam Ordner überprüfen.     
+    Wenn weitere Probleme auftauchen die Registrierung erneut versuchen, oder eine E-Mail an fritz.schirbel@gymsl.de schicken.
