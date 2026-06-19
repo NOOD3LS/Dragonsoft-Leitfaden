@@ -1,5 +1,22 @@
 # __Nutzung im Unterricht__
 
+## __Installation und Starten des Spiels__
+
+1. Auf einem Schulrechner einloggen. 
+
+2. Auf dem Desktop die "Klassenraumsteuerung" starten.
+
+3. Den passenden Raum öffnen. ("Öffnen")
+
+4. Links in der Leiste "Autausch" auswählen, dann "Ändern". 
+
+5. In der sich öffnenden Liste "Globale Austauschordner-> Das Gyms und das Mint orakel 17.06" wählen 
+
+6.  "Ok" klicken.
+
+Oben in der Icons-Leiste auf "Anwenden" gehen (Daumen hoch Symbol)
+
+
 ## __Grundlegene Steuerung und Karte__
 Der Spielcharakter lässt sich mit den Tasten **W**, **A**, **S**, **D** steuern.
 Neue Räume können erkundet werden, indem man mit dem Spielcharakter auf die Türen zuläuft. 
