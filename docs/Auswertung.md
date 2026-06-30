@@ -2,7 +2,7 @@
 
 Die vollständige Auswertung kann über folgende Website eingesehen werden:    
 [Auswertung Seite](https://agrardragon.org/admin/login?ReturnUrl=%2Fadmin) 
-Um vollständig auf die Website zuzugreifen müssen sie einmal einen Account erstellen und uns dann eine kurze E-Mail schreiben damit wir ihren zugriff freischalten können.
+Um vollständig auf die Website zuzugreifen müssen sie einmal einen Account erstellen und uns dann eine kurze E-Mail schreiben damit wir ihren zugriff freischalten können(an fritz.schirbel@gymsl.de).
 Auf der Seite gibt es zwei Bereiche.
 ## __Auswertung__
 Unter dieser Kategorie können Sie die Fragen und Antworten der Schüler einsehen.  
