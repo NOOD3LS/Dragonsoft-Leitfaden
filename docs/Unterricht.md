@@ -2,19 +2,32 @@
 
 ## __Installation und Starten des Spiels__
 
-1. Auf einem Schulrechner einloggen. 
+1. __Auf einem Schulrechner einloggen.__
+    - Entweder ein Schülerlaptop oder das Smartboard.
 
-2. Auf dem Desktop die "Klassenraumsteuerung" starten.
+2. __Auf dem Desktop die "Klassenraumsteuerung" starten.__
+    ![Klassenraumsteuerung](bilder/Unbenannt.png)
+    ![Passender Raum](bilder/Unbenannt2.png)
+3. __Den passenden Raum öffnen. ("Öffnen")__
+     ![Austausch](bilder/Unbenannt3.png)
 
-3. Den passenden Raum öffnen. ("Öffnen")
+4. __Links in der Leiste "Autausch" auswählen, dann "Ändern".__
+    ![Austausch2](bilder/Unbenannt4.png)
 
-4. Links in der Leiste "Autausch" auswählen, dann "Ändern". 
+5. __In der sich öffnenden Liste "Globale Austauschordner-> Das Gyms und das Mint orakel 17.06" wählen__
+    ![Bestätigen](bilder/Unbenannt5.png)
 
-5. In der sich öffnenden Liste "Globale Austauschordner-> Das Gyms und das Mint orakel 17.06" wählen 
+6.  __"Ok" klicken.__
 
-6.  "Ok" klicken.
+7. __Oben in der Icons-Leiste auf "Anwenden" gehen (Daumen hoch Symbol)__
+    ![Anwenden](bilder/Unbenannt6.png)
 
-Oben in der Icons-Leiste auf "Anwenden" gehen (Daumen hoch Symbol)
+Nach dem die Änderungen angewendet wurden, sollte die Spiel-Datei für die Schüler unter dem Austausch Ordner verfügbar sein. 
+
+## __Wie können die Schüler das Spiel starten?__
+Am Besten schickt man der Klasse während der Unterrichtsstunde eine E-Mail mit folgendem Link.   
+[Anleitung für Schüler](https://nood3ls.github.io/dragonsoft-guide/).   
+Das ist der Leitfaden für die Schüler, in dem erklärt wird wie das Spiel gestartet wird.
 
 
 ## __Grundlegene Steuerung und Karte__
